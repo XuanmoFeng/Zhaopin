@@ -8,9 +8,9 @@
 ## em/w.py 将生成的图片发送给邮箱用户里
 
 
-[!image](https://github.com/XuanmoFeng/Zhaopin/blob/master/out/bei.png)
-[!image](https://github.com/XuanmoFeng/Zhaopin/blob/master/out/nan.png)
+[!image] (https://github.com/XuanmoFeng/Zhaopin/blob/master/out/bei.png)
+[!image] (https://github.com/XuanmoFeng/Zhaopin/blob/master/out/nan.png)
 
 # ！！！因为最近找工作，不了会准备好好对这些信息分析一下！！！！
-## 比如：招聘C++的公司有多少，招聘Java的公司有多少，以及有笔试的公司占多少，列个表出来，，，，
-## 等等，最近比较忙，粗略的做了一下。哪里不会，评论即可
+
+## 比如：招聘C++的公司有多少，招聘Java的公司有多少，以及有笔试的公司占多少，列个表出来，，，，等等，最近比较忙，粗略的做了一下。哪里不会，评论即可
