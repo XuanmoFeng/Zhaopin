@@ -8,8 +8,8 @@
 ## em/w.py 将生成的图片发送给邮箱用户里
 
 
-[!image] (https://github.com/XuanmoFeng/Zhaopin/blob/master/out/bei.png)
-[!image] (https://github.com/XuanmoFeng/Zhaopin/blob/master/out/nan.png)
+![image] (https://github.com/XuanmoFeng/Zhaopin/blob/master/out/bei.png)
+![image] (https://github.com/XuanmoFeng/Zhaopin/blob/master/out/nan.png)
 
 # ！！！因为最近找工作，不了会准备好好对这些信息分析一下！！！！
 
